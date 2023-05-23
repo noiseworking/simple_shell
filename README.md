@@ -123,7 +123,7 @@ Background Context #2
 Internationally recognized sponsor of this project is Mohamed Lamari
 
 
-![](https://ca.slack-edge.com/T0195LMKD1R-U04PN3XF05T-70bc3c45badd-48)
+![](https://www.icegif.com/wp-content/uploads/2022/05/icegif-511.gif)
 
 *^ “ejected Shell”, by [Mohamed Lamari](https://www.instagram.com/noisefunny/ "Mohamed Lamari")* 
 

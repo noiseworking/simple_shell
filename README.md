@@ -1,7 +1,7 @@
 0x16. C - Simple Shell
 ================
 
--   Contributors project simple shell Mohamed Lamari
+-   Contributors to this project, Mohamed Lamari
 
 Background Context
 ------------------

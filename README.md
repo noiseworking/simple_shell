@@ -1,19 +1,20 @@
-C - Simple Shell
+**C - Simple Shell**
+**[www.alxafrica.com](https://www.alxafrica.com/)**
 ================
 
 -   Contributors to this project, noiseworking
 -   ©All rights reserved or owned by noiseworking
--   My email for more details or help noisegamerwork@gmail.com>
+-   My email for more details or help noisegamerwork@gmail.com
 -   [Instagram](https://www.instagram.com/noisefunny/)
 
-Background Context
+Background Context #0
 ------------------
-Write a simple UNIX command interpreter.
+Animation published by noiseworking
 
 
 ![](https://media.tenor.com/5gfdlV7KIXQAAAAd/anime.gif)
 
-*^ “The Gates of Shell”, by [Spencer Cheng](https://intranet.alxswe.com/rltoken/AtYRSM03vJDrko9xHodxFQ "Spencer Cheng")* “featuring”, [Julien Barbier](https://intranet.alxswe.com/rltoken/-ezXgcyfhc8qU1DeUInLUA "Julien Barbier")*
+*^ “ejected Shell”, by [noiseworking](https://www.instagram.com/noisefunny/ "noiseworking")* 
 
 **Important message from Julien**:
 
@@ -121,14 +122,14 @@ Resources
 -   Write a README with the description of your project
 -   You should have an AUTHORS file at the root of your repository, listing all individuals having contributed content to the repository. Format, see Docker
 
-Background Context #2
+Background Context #1
 ------------------
-Animation published by noiseworking
+Write a simple UNIX command interpreter.
 
 
-![](https://www.icegif.com/wp-content/uploads/2022/05/icegif-511.gif)
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
-*^ “ejected Shell”, by [noiseworking](https://www.instagram.com/noisefunny/ "noiseworking")* 
+*^ “The Gates of Shell”, by [Spencer Cheng](https://intranet.alxswe.com/rltoken/AtYRSM03vJDrko9xHodxFQ "Spencer Cheng")* “featuring”, [Julien Barbier](https://intranet.alxswe.com/rltoken/-ezXgcyfhc8qU1DeUInLUA "Julien Barbier")*
 
 **Important message from Julien**:
 

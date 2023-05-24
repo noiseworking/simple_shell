@@ -1,14 +1,17 @@
-0x16. C - Simple Shell
+C - Simple Shell
 ================
 
--   Contributors to this project, Mohamed Lamari
+-   Contributors to this project, noiseworking
+-   ©All rights reserved or owned by noiseworking
+-   My email for more details or help noisegamerwork@gmail.com>
+-   [Instagram](https://www.instagram.com/noisefunny/)
 
 Background Context
 ------------------
 Write a simple UNIX command interpreter.
 
 
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
+![](https://media.tenor.com/5gfdlV7KIXQAAAAd/anime.gif)
 
 *^ “The Gates of Shell”, by [Spencer Cheng](https://intranet.alxswe.com/rltoken/AtYRSM03vJDrko9xHodxFQ "Spencer Cheng")* “featuring”, [Julien Barbier](https://intranet.alxswe.com/rltoken/-ezXgcyfhc8qU1DeUInLUA "Julien Barbier")*
 
@@ -120,12 +123,12 @@ Resources
 
 Background Context #2
 ------------------
-Internationally recognized sponsor of this project is Mohamed Lamari
+Animation published by noiseworking
 
 
 ![](https://www.icegif.com/wp-content/uploads/2022/05/icegif-511.gif)
 
-*^ “ejected Shell”, by [Mohamed Lamari](https://www.instagram.com/noisefunny/ "Mohamed Lamari")* 
+*^ “ejected Shell”, by [noiseworking](https://www.instagram.com/noisefunny/ "noiseworking")* 
 
 **Important message from Julien**:
 

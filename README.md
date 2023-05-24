@@ -4,7 +4,7 @@
 
 -   Contributors to this project, noiseworking
 -   ©All rights reserved or owned by noiseworking
--   Poject was studied before working on it through alxafrica [link project](https://intranet.alxswe.com/projects/235)
+-   Porject was studied before working on it through alxafrica [link project](https://intranet.alxswe.com/projects/235)
 -   My email for more details or help noisegamerwork@gmail.com
 -   [Instagram](https://www.instagram.com/noisefunny/)
 
